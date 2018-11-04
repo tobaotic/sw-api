@@ -1,14 +1,17 @@
 # SWApi project
 
 ## Main task
-Class project responsible for retrieving and parsing the JSON response from [Star Wars API](https://swapi.co/api/starships/).
+
+Class project responsible for retrieving and parsing the [Star Wars API](https://swapi.co/api/starships/) JSON response.
+
 
 JSON response for starship URL endpoint will return values *(October 2018)*:
+
 | Attribute | Value | Description |
 | ------ | ------ | ------ |
 | count | int | contains the number of all ships |
 | next | string | next page URL |
-| previous | string | previous page URL
+| previous | string | previous page URL |
 | results | array | ship attributes |
 
 More info about Star Wars [starship](https://swapi.co/documentation#starships) endpoint.

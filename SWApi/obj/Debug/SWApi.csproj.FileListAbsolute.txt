@@ -1,0 +1,6 @@
+c:\users\tobaotic\documents\visual studio 2013\Projects\SWApi\SWApi\obj\Debug\SWApi.csprojResolveAssemblyReference.cache
+c:\users\tobaotic\documents\visual studio 2013\Projects\SWApi\SWApi\bin\Debug\SWApi.dll
+c:\users\tobaotic\documents\visual studio 2013\Projects\SWApi\SWApi\bin\Debug\SWApi.pdb
+c:\users\tobaotic\documents\visual studio 2013\Projects\SWApi\SWApi\obj\Debug\SWApi.dll
+c:\users\tobaotic\documents\visual studio 2013\Projects\SWApi\SWApi\obj\Debug\SWApi.pdb
+c:\users\tobaotic\documents\visual studio 2013\Projects\SWApi\SWApi\bin\Debug\Newtonsoft.Json.dll

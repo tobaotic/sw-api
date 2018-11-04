@@ -1,0 +1,8 @@
+c:\Users\tobaotic\documents\visual studio 2013\Projects\SWApi\SWAUnitTest\bin\Debug\SWAUnitTest.dll
+c:\Users\tobaotic\documents\visual studio 2013\Projects\SWApi\SWAUnitTest\bin\Debug\SWAUnitTest.pdb
+c:\Users\tobaotic\documents\visual studio 2013\Projects\SWApi\SWAUnitTest\bin\Debug\Newtonsoft.Json.dll
+c:\Users\tobaotic\documents\visual studio 2013\Projects\SWApi\SWAUnitTest\bin\Debug\SWApi.dll
+c:\Users\tobaotic\documents\visual studio 2013\Projects\SWApi\SWAUnitTest\bin\Debug\SWApi.pdb
+c:\Users\tobaotic\documents\visual studio 2013\Projects\SWApi\SWAUnitTest\obj\Debug\SWAUnitTest.csprojResolveAssemblyReference.cache
+c:\Users\tobaotic\documents\visual studio 2013\Projects\SWApi\SWAUnitTest\obj\Debug\SWAUnitTest.dll
+c:\Users\tobaotic\documents\visual studio 2013\Projects\SWApi\SWAUnitTest\obj\Debug\SWAUnitTest.pdb
